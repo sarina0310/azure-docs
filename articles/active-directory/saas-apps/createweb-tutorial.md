@@ -127,11 +127,11 @@ In this section, you'll enable B.Simon to use Azure single sign-on by granting a
 
 ## Configure Create!Webフロー SSO
 
-To configure single sign-on on **Create!Webフロー** side, you need to send the downloaded **Certificate (Base64)** and appropriate copied URLs from Azure portal to [Create!Webフロー support team](mailto:solution-cwf@iftc.co.jp). They set this setting to have the SAML SSO connection set properly on both sides.
+To configure single sign-on on **Create!Webフロー** side, you need to send the downloaded **Certificate (Base64)** and appropriate copied URLs from Azure portal to [Create!Webフロー support team](https://support.createwebflow.jp/contact/). They set this setting to have the SAML SSO connection set properly on both sides.
 
 ### Create Create!Webフロー test user
 
-In this section, you create a user called Britta Simon in Create!Webフロー. Work with [Create!Webフロー support team](mailto:solution-cwf@iftc.co.jp) to add the users in the Create!Webフロー platform. Users must be created and activated before you use single sign-on.
+In this section, you create a user called Britta Simon in Create!Webフロー. Work with [Create!Webフロー support team](https://support.createwebflow.jp/contact/) to add the users in the Create!Webフロー platform. Users must be created and activated before you use single sign-on.
 
 ## Test SSO 
 

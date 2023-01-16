@@ -115,11 +115,11 @@ In this section, you'll enable B.Simon to use Azure single sign-on by granting a
 
 ## Configure Crowd Log SSO
 
-To perform the Single Sign-On configuration on the Crowd Log side, please follow [this](https://support.crowdlog.jp/portal/ja/kb/articles/admin-settings-saml) link.
+To perform the Single Sign-On configuration on the Crowd Log side, please follow [this](https://support.crowdlog.jp/knowledge/admin-settings-saml) link.
 
 ### Create Crowd Log test user
 
-In this section, you create a user called Britta Simon in Crowd Log. For more information on how to create a user, please refer [this](https://support.crowdlog.jp/portal/ja/kb/articles/admin-memberadmin-member-create) link.  
+In this section, you create a user called Britta Simon in Crowd Log. For more information on how to create a user, please refer [this](https://support.crowdlog.jp/knowledge/admin-memberadmin-member-create) link.  
 
 ## Test SSO 
 
